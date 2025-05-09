@@ -36,5 +36,7 @@
 <div align="center">
 
 
-![snake gif](./dist/github-snake-dark.svg?palette=github-dark)
+## 🐍 Snake eating my contributions
+
+![snake gif](./dist/github-snake.svg)
 </div>
