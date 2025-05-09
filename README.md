@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raaulreis&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaulreis&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaulreis&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
- 
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raaulreis&show_icons=true&theme=radical)](https://github.com/raaulreis/github-readme-stats)  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raaulreis&layout=compact&theme=radical)
 
 
+<div align="center">
+  
+## 💻 Tech Stack ⚡
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-Java" height="42" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
