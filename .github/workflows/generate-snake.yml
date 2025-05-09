@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite (UTC)
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game
+      - name: Generate Snake Game from GitHub Contributions
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: raaulreis
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -25,5 +25,6 @@ jobs:
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "generated"
+          message: "generated snake"
           add: "dist/*"
+
