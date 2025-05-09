@@ -1,4 +1,3 @@
-## Olá, eu sou a Raul Reis, estudante de Engenharia da Computação!
 
  
  
