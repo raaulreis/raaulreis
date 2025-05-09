@@ -35,5 +35,11 @@
 
 <div align="center">
 
-![snake gif](./dist/github-snake.svg)
+
+<p align="center">
+  <img 
+    src="./dist/github-snake.svg" 
+    alt="Snake animation" 
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+</p>
 </div>
