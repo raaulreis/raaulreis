@@ -35,8 +35,5 @@
 
 <div align="center">
 
-
-## 🐍 Snake eating my contributions
-
 ![snake gif](./dist/github-snake.svg)
 </div>
