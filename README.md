@@ -36,6 +36,5 @@
 <div align="center">
 
 
-![Snake animation](https://github.com/raaulreis/raaulreis/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](./dist/github-snake-dark.svg?palette=github-dark)
 </div>
